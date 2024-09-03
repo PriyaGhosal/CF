@@ -19,5 +19,3 @@ HTML
 CSS
 
 JavaScript
-
-
