@@ -6,7 +6,7 @@ Cafe Finder is a web application designed to help users discover the best cafés
 
 Location-Based Search: Find nearby cafes based on your current location.
 
-Café Details: View ratings, reviews, and other essential information for each cafe.
+Cafe Details: View ratings, reviews, and other essential information for each cafe.
 
 Interactive Map: Visualize café locations on a map with clickable markers.
 
