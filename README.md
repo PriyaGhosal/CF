@@ -14,7 +14,6 @@ Interactive Map: Visualize cafe locations on a map with clickable markers.
 Responsive Design: Accessible on both desktop and mobile devices.
 
 
-
 **Technologies Used**
 
 HTML
